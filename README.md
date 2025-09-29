@@ -25,12 +25,14 @@ Here are a few projects I’ve worked on. Click to view details:
 - [**Windows Server Active Directory Lab**](https://github.com/Favio101/IT_home_labs/blob/main/Active%20Directory%20in%20VM%20Lab.md)  
   Configured a domain controller, DNS, organizational units, and user/group policies.  
 
-- [**SQL Library Database**](https://github.com/Favio101/IT_home_labs/blob/main/Sql%20Basic%20Library%20Project.sql) 
+- [**SQL Library Database**](https://github.com/Favio101/IT_home_labs/blob/main/Sql%20Basic%20Library%20Project.sql) <br>
   Designed and queried a relational database with joins, aggregates, and insights.  
 
-- [**Pet Care Company Website**](https://github.com/Favio101/Pet-Care-Website)
-  Built a multi-page pet care compamy website with structured layouts, styling, and dynamic features using HTML5/CSS/JavaScript.  
-
+- [**Pet Care Company Website**](https://github.com/Favio101/Pet-Care-Website) <br>
+  Built a multi-page pet care compamy website with structured layouts, styling, and dynamic features using HTML5/CSS/JavaScript.
+  
+- [**Basic HTML Resume**](https://github.com/Favio101/Basic-HTML-Resume) <br>
+  Built my resume using basic HTML. 
 
 
 ---
